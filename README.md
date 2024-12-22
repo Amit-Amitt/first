@@ -1,3 +1,4 @@
 # first
-this is my first git repository
-my name is amit
+This is my first git Repository
+<br>
+My Name is Amit
